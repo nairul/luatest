@@ -42,7 +42,7 @@ https://www.tutorialspoint.com/lua/lua_quick_guide.htm
 -Name some popular libraries for Lua
 
 
-#Installation
+# Installation
 
 1) To build/test Lua in the Mac OS X, use the following command:
 
