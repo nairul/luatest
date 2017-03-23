@@ -34,6 +34,9 @@ https://www.lua.org
 # What article or forum was most helpful to you in learning this?
 https://www.tutorialspoint.com/lua/lua_quick_guide.htm
 # What are 3 interview questions one might be asked about this technology?
+-What are the popular uses of Lua?
+-If you want to access the first value in an array coded in Lua, how would you do that?
+-Name some popular libraries for Lua
 
 
 #Installation
