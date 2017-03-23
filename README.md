@@ -1,2 +1,0 @@
-# luatest
-Adam learns Lua

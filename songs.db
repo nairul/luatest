@@ -1,0 +1,4 @@
+CREATE TABLE songs_list
+       ("id" INTEGER PRIMARY KEY NOT NULL,
+       "title" VARCHAR(255) DEFAULT "",
+       "url" VARCHAR(255) DEFAULT "");
