@@ -5,7 +5,8 @@ I wanted to learn a new programming language, preferably one that is not so popu
 # How were you first made aware of it?
 In Blizzard Entertainment's World of Warcraft (you may have heard of it?), all the third-party addons are built using Lua. As a hero of Azeroth I loved creating my own addons, which required some knowledge of creating and editing Lua files. Back then I had no idea what I was doing, and never bothered to really learn the language that I was so hastily copy/pasting.
 
-But, if you're remotely familiar with WoW, you can checkout what I made here: http://www.wowinterface.com/forums/showthread.php?t=50430
+Sidenote: if you're remotely familiar with WoW, you can checkout what I made here http://www.wowinterface.com/forums/showthread.php?t=50430
+
 # What problem does it solve?
 From the tutorialpoint website (https://www.tutorialspoint.com/lua/lua_quick_guide.htm):
 
