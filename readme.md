@@ -1,4 +1,4 @@
-# luatest
+# Adam learns Lua
 
 # Why did you choose this subject?
 I wanted to learn a new programming language, preferably one that is not so popular!
