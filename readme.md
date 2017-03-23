@@ -59,4 +59,4 @@ If you encounter errors running the above commands, see this guide: http://keple
 
 $ orbit songs.lua
 
-4) Navigate to localhost:8080, and there's my app!
+4) Navigate to localhost:8080, and there's my first silly attempt at a lua app.
